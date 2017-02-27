@@ -66,7 +66,7 @@ public class RomanNumberToInteger {
 		}
 		System.out.println(net);
 		
-		System.out.println(ToArabic(roman));
+//		System.out.println(ToArabic(roman));
 
 
 	}
